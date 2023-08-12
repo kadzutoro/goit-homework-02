@@ -13,67 +13,48 @@ a {
 
 .name-web {
     color: var(--iris, #4D5AE5);
-    font-family: Raleway;
     font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    text-decoration: none;
 }
 .studio {
     color: var(--navyblue, #2E2F42);
-     font-family: Raleway;
     font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .studio-footer {
     color: var(--cloud, #F4F4FD);
-    font-family: Raleway;
     font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 21px; /* 116.667% */
-    letter-spacing: 0.54px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .contacts-item {
     color: var(--navyblue, #2E2F42);
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-    text-decoration: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contacts-item {
     color: var(--slate, #434455);
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-    text-decoration: none;
+
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
-.main-content-tittle {
-    color: var(--white, #FFF);
+.main-content-one {
+    color:  var(--white, #FFF);
     text-align: center;
-    font-family: Roboto;
     font-size: 56px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 60px; /* 107.143% */
-    letter-spacing: 1.12px;
+
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 .main-content {
     width: 1440px;
@@ -81,7 +62,7 @@ a {
     flex-shrink: 0;
     background: var(--navyblue, #2E2F42);
 }
-.main-bottom {
+.main-buttom {
     display: inline-flex;
     padding: 16px 32px;
     align-items: flex-start;
@@ -90,78 +71,57 @@ a {
     background: var(--iris, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
-.bottom-text {
+.buttom-text {
     color: var(--white, #FFF);
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .main-content-tittle {
-    font-family: Roboto;
     font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .main-text{
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: var(--slate, #434455);
     width: 264px;
 }
 
 .main-content-tittle2 {
-    font-family: Roboto;
     font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.72px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--navyblue, #2E2F42);
     text-align: center;
 }
 
 .names-tittle {
-    font-family: Roboto;
     font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: var(--navyblue, #2E2F42);
     text-align: center;
 }
 
 .names-text {
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: var(--slate, #434455);
     text-align: center;
 }
 
 .footer-text {
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px; /* 150% */
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: var(--cloud, #F4F4FD);
     width: 264px;
 }
