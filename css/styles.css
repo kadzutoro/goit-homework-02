@@ -94,8 +94,6 @@ address {
   letter-spacing: 0.02em;
 }
 .main-content {
-  width: 1440px;
-  height: 600px;
   background: #2e2f42;
 }
 
@@ -176,7 +174,5 @@ address {
 }
 
 .footer-main {
-  width: 1440px;
-  height: 312px;
   background: #2e2f42;
 }
