@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   color: #434455;
   background-color:#ffffff;
@@ -129,7 +129,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  width: 264px;
 }
 
 .main-tittle {
@@ -170,7 +169,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  width: 264px;
 }
 
 .footer-main {
