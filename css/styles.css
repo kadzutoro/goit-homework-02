@@ -23,11 +23,12 @@ address {
 h3 {
   color: #2e2f42;
 }
-span {
-  color: #2E2F42;
+
+h2 {
+  color: #2e2f42;
 }
 
-h3 {
+span {
   color: #2e2f42;
 }
 
@@ -161,7 +162,6 @@ h3 {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
     text-align: center;
 }
 
