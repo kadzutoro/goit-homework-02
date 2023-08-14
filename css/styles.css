@@ -41,7 +41,6 @@ h2 {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #2e2f42;
 }
 
 .navigation {
@@ -49,6 +48,7 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: 500;
+  color: #2e2f42;
 }
 
 .navigation:hover,
