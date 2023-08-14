@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Raleway" sans-serif;
+  font-family: "Roboto", sans-serif, "Raleway" sans-serif;
   font-style: normal;
   color: #434455;
   background-color:#ffffff;
@@ -96,7 +96,6 @@ address {
 .main-content {
   width: 1440px;
   height: 600px;
-  flex-shrink: 0;
   background: #2e2f42;
 }
 
@@ -136,7 +135,7 @@ address {
 
 .main-tittle {
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -161,7 +160,7 @@ address {
 }
 .main-tittle-two {
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -179,6 +178,5 @@ address {
 .footer-main {
   width: 1440px;
   height: 312px;
-  flex-shrink: 0;
   background: #2e2f42;
 }
