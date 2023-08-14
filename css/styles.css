@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto" sans-serif, "Raleway" sans-serif;
+  font-family: "Roboto" sans-serif;
   font-style: normal;
   color: #434455;
   background-color:#ffffff;
@@ -73,6 +73,7 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 .link {
   color: #434455;
@@ -107,11 +108,10 @@ address {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  
 }
 
-.button-text:hover,
-.button-text:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -130,10 +130,6 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
   width: 264px;
-}
-
-.main-background {
-  background-color: #F4F4FD;
 }
 
 .main-tittle {
