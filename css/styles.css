@@ -142,6 +142,10 @@ address {
   text-align: center;
 }
 
+.team-background {
+  background-color: #FFFFFF
+}
+
 .names-text {
   font-size: 16px;
   line-height: 1.5;
