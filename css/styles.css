@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif, "Raleway" sans-serif;
+  font-family: "Roboto" sans-serif, "Raleway" sans-serif;
   font-style: normal;
   color: #434455;
   background-color:#ffffff;
@@ -87,7 +87,6 @@ address {
 
 .main-content-one {
   color: #fff;
-  text-align: center;
   font-size: 56px;
 
   line-height: 1.07;
@@ -137,7 +136,6 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  text-align: center;
 }
 
 .names-tittle {
@@ -145,7 +143,6 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-align: center;
   font-weight: 500
 }
 
@@ -154,7 +151,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-align: center;
 }
 .main-tittle-two {
     font-size: 36px;
@@ -162,7 +158,6 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    text-align: center;
 }
 
 .footer-text {
