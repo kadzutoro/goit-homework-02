@@ -37,7 +37,7 @@ address {
   text-transform: uppercase;
 }
 
-.nav-studio {
+.navigation {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -45,20 +45,9 @@ address {
   font-weight: 500;
 }
 
-.nav-portfolio {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  font-weight: 500;
-}
-
-.nav-contacts {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  font-weight: 500;
+.navigation:hover,
+.navigation:focus {
+  color: #404bbf;
 }
 
 .studio-footer {
@@ -131,6 +120,10 @@ address {
   color: #434455;
 }
 
+.section-team {
+  background-color: #F4F4FD;
+}
+
 .main-tittle {
   font-size: 36px;
   line-height: 1.11;
@@ -155,6 +148,11 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.section-portfolio {
+  background: #FFF;
+}
+
 .main-tittle-two {
     font-size: 36px;
     line-height: 1.11;
