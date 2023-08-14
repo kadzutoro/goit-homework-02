@@ -139,6 +139,7 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
   text-align: center;
+  background-color: #F4F4FD;
 }
 
 .names-tittle {
@@ -148,6 +149,7 @@ address {
   color: #2e2f42;
   font-weight: 500;
   text-align: center;
+  background-color: #F4F4FD;
 }
 
 .names-text {
@@ -155,6 +157,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #F4F4FD;
 }
 .main-tittle-two {
     font-size: 36px;
