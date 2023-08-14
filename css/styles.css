@@ -28,10 +28,6 @@ h2 {
   color: #2e2f42;
 }
 
-span {
-  color: #2e2f42;
-}
-
 .name-web {
   color: #4d5ae5;
   font-size: 18px;
@@ -45,6 +41,7 @@ span {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  color: #2e2f42;
 }
 
 .navigation {
